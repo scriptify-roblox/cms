@@ -1,0 +1,8 @@
+[submodule "cms/visible"]
+	path = cms/visible
+	url = https://github.com/scriptify-roblox/scripts.git
+	branch = main
+[submodule "cms/public/scripts"]
+	path = cms/public/scripts
+	url = https://github.com/scriptify-roblox/scripts.git
+	branch = main
